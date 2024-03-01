@@ -15,7 +15,7 @@ AirBnb clone made with React Native
 ![Screenshot_1709328464](https://github.com/mabelzhou/airbnb-clone/assets/135676782/6d647f3f-2a05-403f-8a85-82da18ee543e)
 
 ## Demo
-![demo](https://github.com/mabelzhou/airbnb-clone/assets/135676782/4f476570-1085-4100-9886-6159b058799e)
+![demo](https://github.com/mabelzhou/airbnb-clone/assets/135676782/9565ab32-f776-4b5c-83c0-a2eb5287e022)
 
 
 ## Acknowledgements
