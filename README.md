@@ -9,8 +9,10 @@ AirBnb clone made with React Native
 * Bottom Sheet from [Gorhom](https://github.com/gorhom/react-native-bottom-sheet)
 
 ## Screenshots
-![Screenshot_1709328433](https://github.com/mabelzhou/airbnb-clone/assets/135676782/3f97b22c-e54e-4a49-90d5-12fdcc9fe318) ![Screenshot_1709328392](https://github.com/mabelzhou/airbnb-clone/assets/135676782/bd0f449c-a84d-4a16-aae2-5bb03c652208)
-![Screenshot_1709328464](https://github.com/mabelzhou/airbnb-clone/assets/135676782/706e77dc-b820-42ff-a806-760ad10daae7) ![Screenshot_1709328449](https://github.com/mabelzhou/airbnb-clone/assets/135676782/4fbaa159-c83f-4556-b2c5-db50d420b25d)
+![Screenshot_1709328449](https://github.com/mabelzhou/airbnb-clone/assets/135676782/09c0602a-2118-41a1-8a84-d4d7b3d4f3b3)
+![Screenshot_1709328433](https://github.com/mabelzhou/airbnb-clone/assets/135676782/3622c509-cdbb-4160-9285-6def12e4c6f7)
+![Screenshot_1709328392](https://github.com/mabelzhou/airbnb-clone/assets/135676782/73eccbde-d9f6-4f76-9521-86b1a2ed687d)
+![Screenshot_1709328464](https://github.com/mabelzhou/airbnb-clone/assets/135676782/6d647f3f-2a05-403f-8a85-82da18ee543e)
 
 ## Demo
 ![demo](https://github.com/mabelzhou/airbnb-clone/assets/135676782/4f476570-1085-4100-9886-6159b058799e)
